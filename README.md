@@ -1,3 +1,9 @@
+# metaverse-landing-page
+Metaverse Landing Page - Tailwind - Next 13 Website App
+![Metaverse Landing Page](https://github.com/rvslan/metaverse-landing-page/blob/main/screenshot.png?raw=true)
+
+Inspired by [prototype](https://www.figma.com/file/EyzNoOFak1Nb1bBx9ZKI7E).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
